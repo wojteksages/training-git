@@ -1,4 +1,4 @@
-Hello world!
+Hello world! :)
 Witaj świecie!
 Try log in without token
 
