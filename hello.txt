@@ -1,4 +1,3 @@
 Hello world!
 Witaj świecie!
-
-Good morning!
+Try log in without token
