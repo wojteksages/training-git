@@ -3,3 +3,6 @@ Witaj świecie!
 Try log in without token
 
 Logout user!
+Login user!
+
+Uczymy się GITa
