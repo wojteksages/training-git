@@ -2,3 +2,7 @@ Java Developer PRO
 
 logiut user 1
 logout user 2
+
+----
+
+tekst dodany w git-clone
