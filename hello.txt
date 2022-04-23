@@ -1,3 +1,5 @@
 Hello world!
 Witaj świecie!
 Try log in without token
+
+Logout user!
